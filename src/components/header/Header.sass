@@ -9,8 +9,6 @@
 .logo
     max-width: 70px
 /*== Управление бургером =========*/
-.nav-toggle
-    display: none
 
 .nav-toggle-label
     position: absolut
@@ -20,10 +18,10 @@
     cursor: pointer
 
 .burger__line
-    width: 25px
+    width: 35px
     height: 3px
     margin: 3px
-    background-color: red
+    background-color: white
     transition: 0.3s
 
 .burger__line--two
@@ -40,7 +38,6 @@
 
 /*================ Style for "Menu"============*/
 .main-menu__link
-    font-family: "Arial", sans-serif
     text-decoration: none
     color: blue
     padding: 10px
@@ -54,6 +51,8 @@ nav.main-menu.active
     width: 100%
     transform: scaleX(1)
     transition: all 0.3s ease
+    display: flex
+    flex-direction: column
 
 @media screen and (max-width: 768px)
     .nav-bar

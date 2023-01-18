@@ -10,11 +10,8 @@ import Contacts from './pages/Contacts'
 function App() {
   return (
     <>
-    <Header/>
     <div className='wrapper'>
-     
-     
-      {/* <Shop/> */}
+    <Header/>
       <Routes>
         <Route path="/" element={ <Page img='images/img-1.jpg' title='Головна сторінка'/>}/>
         <Route path="/shop" element={ <Shop img='images/img-2.jpg' title='Магазин'/>}/>
