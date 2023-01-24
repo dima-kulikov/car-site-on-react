@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/car-site-on-react/static/css/main.79be8546.css",
-    "main.js": "/car-site-on-react/static/js/main.359a3fef.js",
-    "static/media/img-1.jpg": "/car-site-on-react/static/media/img-1.3c1898f95ead13bc7a62.jpg",
-    "index.html": "/car-site-on-react/index.html",
-    "main.79be8546.css.map": "/car-site-on-react/static/css/main.79be8546.css.map",
-    "main.359a3fef.js.map": "/car-site-on-react/static/js/main.359a3fef.js.map"
+    "main.css": "/contacts/static/css/main.563bd5fd.css",
+    "main.js": "/contacts/static/js/main.359a3fef.js",
+    "static/media/img-1.jpg": "/contacts/static/media/img-1.3c1898f95ead13bc7a62.jpg",
+    "index.html": "/contacts/index.html",
+    "main.563bd5fd.css.map": "/contacts/static/css/main.563bd5fd.css.map",
+    "main.359a3fef.js.map": "/contacts/static/js/main.359a3fef.js.map"
   },
   "entrypoints": [
-    "static/css/main.79be8546.css",
+    "static/css/main.563bd5fd.css",
     "static/js/main.359a3fef.js"
   ]
 }
